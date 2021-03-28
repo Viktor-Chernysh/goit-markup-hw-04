@@ -499,6 +499,10 @@ img {
 .footer-grid .weblogo-link {
   display: inline-flex;
 }
+.footer-grid .grid-item {
+  display: inline-block;
+  align-self: baseline;
+}
 .footer-social-icons .icon {
   fill: var(-);
 }
