@@ -504,7 +504,7 @@ img {
   align-self: baseline;
 }
 .footer-social-icons .icon {
-  fill: var(-);
+  fill: var(--primary-bg-color);
 }
 .footer-item {
   --grid-item: 4;
